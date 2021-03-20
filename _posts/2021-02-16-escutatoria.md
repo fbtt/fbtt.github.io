@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Escutatória"
-author: Rubens Alves
+author: Rubem Alves
 categories: Misc
 # tags:	macarrão
 cover:  "/assets/escutatoria.jpeg"
@@ -22,4 +22,4 @@ Para mim, Deus é isto: a beleza que se ouve no silêncio. Daí a importância d
 
 É chegado o momento, não temos mais o que esperar. Ouçamos o humano que habita em cada um de nós e clama pela nossa humanidade, pela nossa solidariedade, que teima em nos falar e nos fazer ver o outro que dá sentido e é a razão do nosso existir, sem o qual não somos e jamais seremos humanos na expressão da palavra.
 
-Texto de Rubens Alves:  “A Escutatória”
+Texto de Rubem Alves:  “A Escutatória”
