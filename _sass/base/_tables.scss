@@ -9,17 +9,24 @@ table {
 th {
   border-bottom: 1px solid darken($base-border-color, 15%);
   font-weight: 600;
-  padding: $small-spacing 0;
-  text-align: left;
+  padding: $small-spacing 1;
+  text-align: center;
+  border: 1px solid black;
 }
 
 td {
   border-bottom: $base-border;
-  padding: $small-spacing 0;
+  padding: $small-spacing 1;
+  text-align: center;
+  border: 1px solid black;
 }
 
 tr,
 td,
 th {
   vertical-align: middle;
+}
+
+.tables {
+  text-align: center;
 }
